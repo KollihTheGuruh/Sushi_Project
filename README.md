@@ -12,8 +12,8 @@ Welcome to the Sushiman project! This is a web-based application showcasing a va
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Setup
